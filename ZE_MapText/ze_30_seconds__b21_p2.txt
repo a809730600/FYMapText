@@ -2,6 +2,6 @@
 {
 	"***30 seconds for pressing button!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**按下按钮等待30秒 **"
 	}
 }
