@@ -2,31 +2,31 @@
 {
 	"***Aux Door Opening In 30 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**辅助门将在30秒后打开**"
 	}
 	"***Tram Leaving Momentarily***"
 	{
-		"chi"		"** **"
+		"chi"		"**电车将立即离开**"
 	}
 	"***Outdoor Tram Starting in 25 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**25秒后启动电车**"
 	}
 	"***Outdoor Tram Starting in 10 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后启动电车**"
 	}
 	"***Outdoor Tram Starting in 5 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后启动电车**"
 	}
 	"***Rocket Lift Leaving In 10 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**火箭10秒后离开"
 	}
 	"***Airlock Door Opening In 20 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后气闸门开启**"
 	}
 	"For POSSESSION, Respect to Sakura"
 	{
@@ -34,6 +34,6 @@
 	}
 	"Based-map by Xquality"
 	{
-		"chi"		"** **"
+		"chi"		"**Based-map by Xquality 翻译：冰菓*"
 	}
 }
