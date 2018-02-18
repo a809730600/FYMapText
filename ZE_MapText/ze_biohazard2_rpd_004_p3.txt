@@ -2,10 +2,10 @@
 {
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>热身40秒后结束<<<**"
 	}
 	"'i love u'"
 	{
-		"chi"		"** **"
+		"chi"		"**我爱你₍₍◡( ╹◡╹ )◡₎₎**"
 	}
 }
