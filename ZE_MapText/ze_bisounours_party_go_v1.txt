@@ -2,138 +2,138 @@
 {
 	"@ LVL 1 - Easy"
 	{
-		"chi"		"** **"
+		"chi"		"**@ LVL 1  - 简单**"
 	}
 	">>> FALL BACK <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>> 撤退 <<<**"
 	}
 	">>> PROTECT THE CASTLE <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>守住城堡<<<**"
 	}
 	">>> FALL BACK TO THE RAINBOW <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>撤退到彩虹<<<**"
 	}
 	"Wait 15 sec !!"
 	{
-		"chi"		"** **"
+		"chi"		"**等待15秒**"
 	}
 	"FALL BACK !!"
 	{
-		"chi"		"** **"
+		"chi"		"**快溜！！**"
 	}
 	"King Pedobear will let you pass in 20 sec !"
 	{
-		"chi"		"** **"
+		"chi"		"**国王Pedobear会让你在20秒后通过**"
 	}
 	"You can pass !"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以通过了**"
 	}
 	"You won easy mode!"
 	{
-		"chi"		"** **"
+		"chi"		"**简单模式win**"
 	}
 	"King Pedobear kill all the zombie !"
 	{
-		"chi"		"** **"
+		"chi"		"**国王Pedobear杀死了所有的僵尸！**"
 	}
 	"@ LVL 2 - Normal"
 	{
-		"chi"		"** **"
+		"chi"		"**@ LVL 2  - 普通**"
 	}
 	">>> SURVIVE 60 SEC <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>> 生存60秒 <<<**"
 	}
 	"King Pedobear will let you pass in 40 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**国王Pedobear会让你在40秒后通过**"
 	}
 	"Fall back !"
 	{
-		"chi"		"** **"
+		"chi"		"**快溜！！！**"
 	}
 	"King Pedobear let you pass"
 	{
-		"chi"		"** **"
+		"chi"		"**国王Pedobear让你通过**"
 	}
 	"The rainbow will be open in 30 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**彩虹将在30秒内打开**"
 	}
 	"FALL BACK TO THE RAINBOW"
 	{
-		"chi"		"** **"
+		"chi"		"**撤到彩虹上**"
 	}
 	"YOU HAVE 20 SEC TO ESCAPE"
 	{
-		"chi"		"** **"
+		"chi"		"**你有20秒时间来逃跑（快溜！）**"
 	}
 	"SHOOT AND DODGE HIS ATTACK"
 	{
-		"chi"		"** **"
+		"chi"		"**射击并躲避他的攻击**"
 	}
 	"You killed Pedobear !"
 	{
-		"chi"		"** **"
+		"chi"		"**你杀死了Pedobear！**"
 	}
 	"Escape from the sky now !"
 	{
-		"chi"		"** **"
+		"chi"		"**现在逃离天空！**"
 	}
 	"Survive 25 sec !"
 	{
-		"chi"		"** **"
+		"chi"		"**生存25秒**"
 	}
 	"You won Normal mode !"
 	{
-		"chi"		"** **"
+		"chi"		"**普通模式win**"
 	}
 	"@ LVL 3 - Hard"
 	{
-		"chi"		"** **"
+		"chi"		"**@ LVL 3  - 困难**"
 	}
 	"FALL BACK TO THE HOUSE !"
 	{
-		"chi"		"** **"
+		"chi"		"**退回房子！**"
 	}
 	"Survive 60 sec !"
 	{
-		"chi"		"** **"
+		"chi"		"**生存60秒！**"
 	}
 	"You can now acces to the second stage !"
 	{
-		"chi"		"** **"
+		"chi"		"**你现在可以进入第二阶段了！**"
 	}
 	"Go to the roof for escape !"
 	{
-		"chi"		"** **"
+		"chi"		"**去屋顶撤离！**"
 	}
 	"You will me able to take the ladder in 20 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**你能让我在20秒内走上阶梯**"
 	}
 	"King Pedobear will help you in 40 sec"
 	{
-		"chi"		"** **"
+		"chi"		"**国王Pedobear将在40秒内帮助你**"
 	}
 	">> The glass will break in 20 sec <<"
 	{
-		"chi"		"** **"
+		"chi"		"**>>玻璃将在20秒内破裂<<**"
 	}
 	"YOU KILLED PEDOBEAR ! FALL BACK"
 	{
-		"chi"		"** **"
+		"chi"		"**你杀死了PEDOBEAR！快走！**"
 	}
 	"You need to survive 30 sec !"
 	{
-		"chi"		"** **"
+		"chi"		"**你需要坚守30秒！**"
 	}
 	"You won Hard mode !"
 	{
-		"chi"		"** **"
+		"chi"		"**困难模式win   翻译：冰菓**"
 	}
 }
